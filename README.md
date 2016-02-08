@@ -1,5 +1,5 @@
 # react-alt
-_Template project for creating react applications using alt_ using:
+_Template project for creating react applications using alt_:
 
 **Node, Express, React, Alt, ES6, ES7** 
 
@@ -8,6 +8,3 @@ _Template project for creating react applications using alt_ using:
 **Skeleton, Css Modules, Deploy (webpack production version)** 
 
 Full-stack application.
-
-
-[Demo](http://pixelant.space/) project using this template: http://pixelant.space/
