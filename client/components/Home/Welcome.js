@@ -1,5 +1,4 @@
 import shared from '../../css/shared.css';
-import styles from '../../css/Welcome.css';
 
 import React, {PropTypes} from 'react';
 import {Link} from 'react-router';
@@ -17,10 +16,10 @@ export default class Welcome extends React.Component {
         <Helmet title="React-Alt"/>
           <section className={shared.section}>
             <h1>Welcome!</h1>
-            <p>If you want to Count...</p>
+            <h5>If you want to Count</h5>
             <Link to="/count">
               <button
-                className={styles.squareButton}>
+                className={shared.primaryButton}>
                 Click here!
               </button>
               </Link>

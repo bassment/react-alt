@@ -1,0 +1,6 @@
+@import 'skeleton-css/css/skeleton.css';
+
+:global
+  h1 {
+    font-weight: bold;
+  }
