@@ -1,9 +1,9 @@
-# react-alt-auth
-_Template project for creating webpack-hot-react applications(login and signUp logic included)_ using:
+# react-alt
+_Template project for creating react applications using alt_ using:
 
-**Node, Express, React, ES6, ES7, React-Router** 
+**Node, Express, React, Alt, ES6, ES7** 
 
-**Webpack, HotModuleReplacement, Firebase, React-Login, Google oAuth**
+**Webpack, React-Router, HotModuleReplacement**
 
 **Skeleton, Css Modules, Deploy (webpack production version)** 
 
